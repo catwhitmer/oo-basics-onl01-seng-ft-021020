@@ -10,6 +10,7 @@ class Shoe
     @brand
   end
   
-  
+  def cobble=(repaired)
+    puts 
   
 end
