@@ -33,6 +33,5 @@ class Book
     @genre
   end
   
- 
 end
 
